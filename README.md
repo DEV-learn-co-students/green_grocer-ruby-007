@@ -1,6 +1,6 @@
 ---
 languages: ruby
-tags: collections, arrays, hashes, named parameters, advanced
+tags: collections
 ---
 
 ## Objectives
